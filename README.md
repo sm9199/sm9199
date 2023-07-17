@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋  
+------------------------------------------------------------------------------------------
+![sm9199's GitHub stats](https://github-readme-stats.vercel.app/api?username=sm9199&show_icons=true&theme=dracula)
+
+<a href="https://www.instagram.com/s_mean04.06/" target="_blank"><img src="https://img.shields.io/badge/instagram-a18cd1?style=flat&logo=instagram&logoColor=white"/></a>
 
 <!--
 **sm9199/sm9199** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +18,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
