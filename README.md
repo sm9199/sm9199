@@ -19,4 +19,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ---------------------------------------------------------------------------
+![trophy](https://github-profile-trophy.vercel.app/?username=SeungMin-Lee)
+----------------------------------------------------------------------------
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
