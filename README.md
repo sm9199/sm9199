@@ -20,7 +20,7 @@ My name is Seung-Min Lee
 ![C](https://img.shields.io/badge/Language-EA5455.svg?&style=plastic&logo=C&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-9708CC.svg?&style=plastic&logo=C++&logoColor=white)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sm9199&langs_count=8)](https://github.com/sm9199/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sm9199&layout=compact)](https://github.com/sm9199/github-readme-stats)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsm9199%2FBaekJoon-Online&count_bg=%23FBC2EB&title_bg=%23A6C1EE&icon=&icon_color=%23CECDCD&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
